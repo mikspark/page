@@ -27,6 +27,6 @@
     "autoload": {
         "psr-0": { "yupe\\modules\\page\\": "" }
     },
-    "target-dir": "yupe/modules/page"
+    "target-dir": "yupe/modules/page",
     "minimum-stability": "stable"
 }
