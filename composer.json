@@ -24,6 +24,8 @@
         "php": ">=5.3.7",
         "yupe/yupe": "dev-master"
     },
-    "target-dir": "../yupe/protected/modules/page",
+    "config": {
+        "vendor-dir": "yupe/yupe/protected/modules/"
+    },
     "minimum-stability": "stable"
 }
