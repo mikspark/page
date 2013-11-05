@@ -24,6 +24,6 @@
         "php": ">=5.3.7",
         "yupe/yupe": "dev-master"
     },
-    "target-dir": "yupe/yupe/protected/modules/page",
+    "target-dir": "../yupe/protected/modules/page",
     "minimum-stability": "stable"
 }
